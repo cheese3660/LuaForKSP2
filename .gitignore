@@ -1,0 +1,4 @@
+*.dll
+.idea
+.vs
+obj
